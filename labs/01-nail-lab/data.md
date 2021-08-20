@@ -19,3 +19,17 @@ Observations
 3. Nail started to rust/oxidize. Copper Sulfide became slightly bluer, and NaCl became slightly green as water reached through the second filter paper.
 4. Copper Sulfide became turquoise. Nail sank through the NaCl and started to rust on contact with Copper Sulfide. No heat or gas.
 5. Control Tube. No reaction observed when nail placed in test tube.
+
+Observations - Day 2
+--------------------
+1. Nail has orange growths emerging from it. NaCl has slight pink growth on one side. CuCl<sub>2</sub> has switched positions on the test tube as the NaCl floated above it. Water is slightly tinted brown.
+2. Nail has rusted more, small orange particles floating freely in water. 
+3. NaCl has become brown, but slightly green near the top. Nail has rusted more with orange particles sitting on top of the CuSO<sub>4</sub>
+4. In between CuSO<sub>4</sub> and NaCl, nail has pink growths on it, that seem to look like a crystal. Water has turned slightly yellow near NaCl. Nail has continued to rust.
+5. Nail has rusted, salt and CuCl<sub>2</sub> has turned slightly yellow near contact with nail.
+
+Comparisons - Day 2
+-------------------
+Tube 1 had a much more severe reaction, even producing the pink crystal-like substance that was found in Tube 4. Tube 2 has much less particles and more salts remaining than tube 1.
+
+In Tube 4, much less CuCl<sub>2</sub> remains than in Tube 3. Tube 4 had a much more severe reaction, but the NaCl in Tube 3 turned brown while the remaining NaCl in Tube 4 turned black.
