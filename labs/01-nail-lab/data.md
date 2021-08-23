@@ -33,3 +33,18 @@ Comparisons - Day 2
 Tube 1 had a much more severe reaction, even producing the pink crystal-like substance that was found in Tube 4. Tube 2 has much less particles and more salts remaining than tube 1.
 
 In Tube 4, much less CuCl<sub>2</sub> remains than in Tube 3. Tube 4 had a much more severe reaction, but the NaCl in Tube 3 turned brown while the remaining NaCl in Tube 4 turned black.
+
+
+Observations - Day 5
+--------------------
+
+1. Filters have been more transparent. Water is more yellow and orange substance has fallen off nail and sank to the bottom on top of the salt. Slightly more pink compounds have formed inside the salt (NaCl). Nail has become much more thin
+2. More NaCl has turned green and nail has become slightly thinner.
+3. Pink compounds have grown out like roots and are holding the nail in the water. Salt has turned almost completely dark green. Water is yellow at the top and nail is thinner.
+4. Nail has collapsed, part of it is in the salt, and two other pieces are floating on top of the salt (NaCl). Turquoise substance has formed in the bottom of the test tube.
+5. Nail has slightly rusted more but other than that little to no change.
+
+Comparisons - Day 5
+-------------------
+
+Nails is tubes 1-4 have become thinner, likely due to the rusting of the nail.
